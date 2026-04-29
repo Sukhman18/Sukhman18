@@ -1,29 +1,24 @@
-## Hi, I'm Sukhmandeep 👋
+## hey, I'm Sukhmandeep 👋
 
-**Machine Learning & Data · Waterloo, Canada 🇨🇦**
+I build machine learning stuff and dig through data. Waterloo, Canada 🇨🇦
 
-B.Tech in Computer Science + Post-Grad in Data Analytics. I build ML models, analyze data, and write code that solves real problems.
+B.Tech in CS + post-grad in Data Analytics. Lately I've been going deep on LLMs and transformers — trying to understand how these things actually work, not just call the API.
 
-### 🧠 What I Work On
+### stuff I've built
 
-- **Machine Learning** — CNNs, NLP, regression, classification (TensorFlow, scikit-learn)
-- **Currently Exploring** — LLMs, transformer architectures, model training from scratch
-- **Data Analytics** — SQL, pandas, EDA, visualization, trend analysis
-- **Tools & Automation** — Python, Node.js, CLI apps, Jupyter notebooks
+- **[COVID detection with CNNs](https://github.com/Sukhman18/neuralproject)** — trained a convnet on chest X-rays to classify COVID vs pneumonia vs normal. TensorFlow, real medical imaging data, the whole pipeline.
+- **[data science projects](https://github.com/Sukhman18/projects)** — linear regression on vehicle data, semantic NLP analysis, and a suicide rate prediction model. Messy real-world data, lots of cleaning.
+- **[TCF Canada French trainer](https://github.com/Sukhman18/tcf-trainer)** — terminal app for French exam prep. Built it because I needed it for my PR. 270 vocab words, timed writing sims, progress tracking. Pure Node.js.
 
-### 📌 Featured Projects
+### what I'm learning right now
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [COVID-19 CNN Detection](https://github.com/Sukhman18/neuralproject) | Chest X-ray classification using convolutional neural networks | Python, TensorFlow, CNN |
-| [Data Science Projects](https://github.com/Sukhman18/projects) | Linear regression, semantic NLP, and suicide rate prediction | Python, scikit-learn, NLTK |
-| TCF Canada PR Trainer | Terminal-based French tutor for Canadian immigration exam prep | Node.js, CLI |
+LLMs, transformers, attention — training models from scratch, not just fine-tuning. I want to know the whole stack.
 
-### 📫 Let's Connect
+### get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/sukhmaann)
 - [Email](mailto:sukhofficial@yahoo.com)
 
 ---
 
-*Open to ML and Data Analyst roles in Waterloo/Toronto and remote across Canada.*
+*open to ML and data analyst roles — Waterloo/Toronto or remote*
