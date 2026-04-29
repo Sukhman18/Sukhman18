@@ -8,7 +8,7 @@ B.Tech in CS + post-grad in Data Analytics. Lately I've been going deep on LLMs 
 
 - **[COVID detection with CNNs](https://github.com/Sukhman18/neuralproject)** — trained a convnet on chest X-rays to classify COVID vs pneumonia vs normal. TensorFlow, real medical imaging data, the whole pipeline.
 - **[data science projects](https://github.com/Sukhman18/projects)** — linear regression on vehicle data, semantic NLP analysis, and a suicide rate prediction model. Messy real-world data, lots of cleaning.
-- **[TCF Canada French trainer](https://github.com/Sukhman18/tcf-trainer)** — terminal app for French exam prep. Built it because I needed it for my PR. 270 vocab words, timed writing sims, progress tracking. Pure Node.js.
+- **[language training tool](https://github.com/Sukhman18/tcf-trainer)** — terminal app for language learning. flashcards, pronunciation guides, speaking prompts, progress tracking. built from scratch in Node.js.
 
 ### what I'm learning right now
 
